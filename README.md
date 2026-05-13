@@ -14,8 +14,8 @@ I build projects in Python, Swift, Java, C++, & more. Usually tools that automat
 
 Current mission: keep learning, keep building, and keep leveling up one commit at a time. 🚀
 
-- 🔭 I’m currently working on: AI Assistant: Ellie 🤖 Bruno's Island Adventure Game 🕹️
-- 🌱 I’m currently learning: Data Structures #️⃣ Unity 🌐 Robotics & Circuits ⚡️
+- 🔭 I’m currently working on: A Tamagotchi inspired application 🐰 
+- 🌱 I’m currently learning: Data Structures #️⃣ Calculus 🌐 Robotics & Circuits ⚡️ Physics ⚛️
 - ⚡ Fun facts: My favorite animal is a Unicorn 🦄 & My favorite Disney Character is Stitch 🛸
 - 🌈 Hobbies: Gaming 🕹️ Reading 📖 Cooking 👩🏻‍🍳 Gardening 🪴
  - 😄 Pronouns: She/Her 👩🏻
